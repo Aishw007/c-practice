@@ -34,7 +34,7 @@ int main() {
             }
         }
 
-        printf("The product of the two matrices is:-\n");
+        printf("The product of the two matrices is stated ahead:-\n");
 
         for (i = 0; i < m; i++) {
             for (j = 0; j < q; j++) {

@@ -19,5 +19,6 @@ int main(){
         }
         printf("\n");
     }
+    printf("this is compeleted\n");
     return 0;
 }
